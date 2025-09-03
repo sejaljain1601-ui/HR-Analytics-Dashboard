@@ -58,23 +58,23 @@ The analysis was done inside Power BI using **DAX measures** and **calculated co
 
 ---
 ## Insights & Findings
-- **Manufacturing has the highest number of unpaid & sick leaves**  
-  (This may indicate employee stress, poor working conditions, or inadequate staffing in Manufacturing — worth investigating root causes like workload or shift patterns.)
+- **Manufacturing has the highest number of unpaid & sick leaves**
+`Indicates possible employee stress, poor working conditions, or understaffing in Manufacturing; suggests the need to review workloads and shift patterns.`
+ 
+-**2019 shows the highest overtime and the highest sick leaves** 
+`Suggests a correlation where increased overtime may have led to employee burnout, resulting in more sick leaves.`
 
-- **2019 shows the highest overtime and the highest sick leaves**  
-  (Possible indication that increased overtime in 2019 led to burnout and more sick leaves — suggests a correlation where higher overtime precedes higher sick leave.)
-
-- **2019 had the most hires compared to other years**  
-  (Rapid hiring could be tied to a growth phase or high attrition, investigate recruitment drivers and retention.)
-
+- **2019 had the most hires compared to other years**
+`Indicates rapid growth or high attrition; recommends investigating recruitment drivers and retention strategies.`
+  
 - **Significant pay gap between male and female employees in Research Centres and Environmental Compliance departments**  
-  (Gender pay disparities appear concentrated in specific centers; recommend a pay equity audit and targeted corrective actions in those departments.)
+`Gender pay disparities appear concentrated in specific centers; recommend a pay equity audit and targeted corrective actions in those departments.`
 
-- **Other departments show near-equal average salaries across genders**  
-  (Indicates more equitable pay practices in most areas — good to maintain and replicate.)
+- **Other departments show near-equal average salaries across genders**
+`Indicates more equitable pay practices in most areas — good to maintain and replicate.`
 
-- **Job Rate trend shows '1' (entry-level) roles are less hired across years compared to other job rates**  
-  (Shows fewer freshers/entry-level hires — organization may prefer experienced hires or there may be gaps in early-career recruitment.)
+- **Job Rate trend shows '1' (entry-level) roles are less hired across years compared to other job rates**
+`Shows fewer freshers/entry-level hires — organization may prefer experienced hires or there may be gaps in early-career recruitment.`
 
 ---
 ## Repository Structure
