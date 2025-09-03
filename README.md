@@ -48,7 +48,7 @@ The analysis was done inside Power BI using **DAX measures** and **calculated co
 - Dashboards:
   1. **Overview Dashboard**  
      - Shows overall company metrics: total employees, gender distribution across departments, average monthly salary, total countries and centers, and total departments.
-     - 
+       
   2. **Deep-Dive Dashboard** (4 charts)  
      - **Leaves summary by department** (sick & unpaid leaves)  
      - **Salary distribution by department** (with gender breakdown)  
