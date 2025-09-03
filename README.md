@@ -81,9 +81,9 @@ Shows fewer freshers/entry-level hires — organization may prefer experienced h
 ## Repository Structure
 HR_Analytics/
 
-├── `HR_Analytics.pbix`          # Power BI report (download to view)
+├── `HR_Analytics.pbix`  # Power BI report (download to view)
 
-└── `README.md`                  # Project overview, schema, analysis, insights
+└── `README.md`          # Project overview, schema, analysis, insights
 
 ---
 **AUTHOR**
