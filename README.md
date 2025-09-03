@@ -9,6 +9,7 @@ It transforms raw employee data into clear, actionable insights to support strat
 The project uses a single table with the following columns:
 
 **Employee Table**
+
 • `Employee Id`  
 • `First Name`  
 • `Last Name`  
