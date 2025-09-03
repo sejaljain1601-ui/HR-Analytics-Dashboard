@@ -36,7 +36,7 @@ The project uses a single table with the following columns:
 
 ---
 ## Key Queries / Analysis Points
-The analysis was done inside Power BI using **DAX measures** and calculated columns. Key items created:
+The analysis was done inside Power BI using **DAX measures** and **calculated column**. Key items created:
 
 - Calculated Columns / Measures:
   - `Full Name` (concatenate `First Name` + `Last Name`)
@@ -78,7 +78,9 @@ The analysis was done inside Power BI using **DAX measures** and calculated colu
 ---
 ## Repository Structure
 HR_Analytics/
+
 ├── HR_Analytics.pbix # Power BI report (download to view)
+
 └── README.md # Project overview, schema, analysis, insights
 
 ---
